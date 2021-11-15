@@ -1,3 +1,5 @@
+Fork of original gogost project git://git.cypherpunks.ru/gogost.git
+
 Pure Go GOST cryptographic functions library.
 
 GOST is GOvernment STandard of Russian Federation (and Soviet Union).
